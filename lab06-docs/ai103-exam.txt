@@ -1,0 +1,20 @@
+AI-103 Exam Notes – Dhanalakshmi Arunkumar
+
+Exam name: Microsoft AI-103, Developing AI Apps and Agents on Azure.
+Planned exam date: Friday 4 December 2026.
+Pass mark: 700 out of 1000.
+Exam time: 120 minutes. Code questions are in Python.
+
+Exam domains and weights:
+- Plan and manage an Azure AI solution: 25-30%
+- Implement generative AI and agentic solutions: 30-35%
+- Implement computer vision solutions: 10-15%
+- Implement text analysis and speech solutions: 10-15%
+- Implement information extraction solutions: 10-15%
+
+Study rule: book the exam only after scoring 80% or more
+twice on the Microsoft Practice Assessment.
+
+Labs completed so far: resource group, Key Vault with RBAC,
+Python with DefaultAzureCredential, Foundry model deployment,
+and guardrails with Prompt Shields.
